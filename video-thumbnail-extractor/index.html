@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0' name='viewport' />
 
   <title>Video Thumbnail Extractor</title>
   <meta name="description"
@@ -22,7 +22,7 @@
 <body class="bg-light text-dark">
 
   <!-- Navbar -->
-  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary sticky-top">
     <div class="container">
       <a class="navbar-brand fw-bold" href="#">
         <i class="fa-solid fa-film me-2"></i>Thumbnail Extractor
@@ -75,7 +75,10 @@
   <!-- Footer -->
   <footer class="bg-primary text-white text-center py-3 mt-5">
     <div class="container">
-      <p class="mb-0">&copy; 2026 Video Thumbnail Extractor. All rights reserved.</p>
+      <p class="mb-0">© <script type='text/javascript'>
+          var creditsyear = new Date();
+          document.write(creditsyear.getFullYear());
+        </script> Video Thumbnail Extractor. All rights reserved.</p>
     </div>
   </footer>
 

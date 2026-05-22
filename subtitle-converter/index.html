@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0' name='viewport' />
     <meta name="description"
         content="Subtitle Converter - Convert and manage subtitle files easily and quickly online.">
     <meta name="keywords" content="subtitle converter, srt, vtt, subtitle tool, convert subtitle">
@@ -22,10 +22,10 @@
 <body class="bg-light text-dark">
 
     <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm">
+    <nav class="navbar navbar-expand-lg navbar-light bg-white border-bottom sticky-top">
         <div class="container">
-            <a class="navbar-brand fw-bold text-primary" href="#">
-                <i class="fa-solid fa-film me-2"></i>Subtitle Converter
+            <a class="navbar-brand fw-bold" href="#">
+                <i class="fa-solid fa-film text-primary me-2"></i>Subtitle Converter
             </a>
 
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
@@ -115,7 +115,10 @@
     <footer class="bg-white border-top py-4 mt-5">
         <div class="container text-center">
             <p class="mb-0 text-muted">
-                © 2026 Subtitle Converter. All rights reserved.
+                © <script type='text/javascript'>
+                    var creditsyear = new Date();
+                    document.write(creditsyear.getFullYear());
+                </script> Subtitle Converter. All rights reserved.
             </p>
         </div>
     </footer>
