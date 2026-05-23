@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+  <channel>
+
+    <title>Hanapha Video Tools</title>
+    <link>https://tools.hanapha.com/video-tools/</link>
+
+    <description>
+      Free online video tools for converting, compressing, trimming, generating subtitles, extracting thumbnails, and editing videos directly in your browser.
+    </description>
+
+    <language>en-us</language>
+
+    <item>
+      <title>GIF to MP4</title>
+      <link>https://tools.hanapha.com/video-tools/gif-to-mp4</link>
+      <description>
+        Convert animated GIF files into MP4 videos online.
+      </description>
+    </item>
+
+    <item>
+      <title>MP4 Converter</title>
+      <link>https://tools.hanapha.com/video-tools/mp4-converter</link>
+      <description>
+        Convert videos into MP4 format quickly and easily.
+      </description>
+    </item>
+
+    <item>
+      <title>Subtitle Converter</title>
+      <link>https://tools.hanapha.com/video-tools/subtitle-converter</link>
+      <description>
+        Convert subtitle files between multiple formats online.
+      </description>
+    </item>
+
+    <item>
+      <title>Subtitle Generator</title>
+      <link>https://tools.hanapha.com/video-tools/subtitle-generator</link>
+      <description>
+        Generate subtitles for videos automatically online.
+      </description>
+    </item>
+
+    <item>
+      <title>Video Compressor</title>
+      <link>https://tools.hanapha.com/video-tools/video-compressor</link>
+      <description>
+        Compress video files and reduce file size online.
+      </description>
+    </item>
+
+    <item>
+      <title>Video Thumbnail Extractor</title>
+      <link>https://tools.hanapha.com/video-tools/video-thumbnail-extractor</link>
+      <description>
+        Extract thumbnails and preview images from videos easily.
+      </description>
+    </item>
+
+    <item>
+      <title>Video to GIF</title>
+      <link>https://tools.hanapha.com/video-tools/video-to-gif</link>
+      <description>
+        Convert video clips into animated GIF files online.
+      </description>
+    </item>
+
+    <item>
+      <title>Video Trimmer</title>
+      <link>https://tools.hanapha.com/video-tools/video-trimmer</link>
+      <description>
+        Trim and cut video clips quickly online.
+      </description>
+    </item>
+
+  </channel>
+
+</rss>

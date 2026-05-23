@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://tools.hanapha.com/video-tools/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url><loc>https://tools.hanapha.com/video-tools/gif-to-mp4</loc></url>
+  <url><loc>https://tools.hanapha.com/video-tools/mp4-converter</loc></url>
+  <url><loc>https://tools.hanapha.com/video-tools/subtitle-converter</loc></url>
+  <url><loc>https://tools.hanapha.com/video-tools/subtitle-generator</loc></url>
+  <url><loc>https://tools.hanapha.com/video-tools/video-compressor</loc></url>
+  <url><loc>https://tools.hanapha.com/video-tools/video-thumbnail-extractor</loc></url>
+  <url><loc>https://tools.hanapha.com/video-tools/video-to-gif</loc></url>
+  <url><loc>https://tools.hanapha.com/video-tools/video-trimmer</loc></url>
+
+  <url><loc>https://tools.hanapha.com/video-tools/404.html</loc></url>
+  <url><loc>https://tools.hanapha.com/video-tools/index.html</loc></url>
+  <url><loc>https://tools.hanapha.com/video-tools/README.md</loc></url>
+
+</urlset>
